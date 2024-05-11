@@ -4,4 +4,4 @@ Anteriormente, mi trayectoria profesional estuvo en otra área, pero decidí dar
 
 Estoy ansiosa por poner en práctica mis habilidades y conocimientos adquiridos, y por seguir aprendiendo y perfeccionándome en este apasionante campo. Me considero una aprendiz incansable y estoy dispuesta a trabajar arduamente para contribuir de manera significativa en cualquier proyecto que se presente.
 
-¡No dudes en contactarme en mi perfil de Linkedin! Estoy lista para enfrentar nuevos desafíos y ser un valioso miembro en tu equipo de desarrollo. 😊
+¡No dudes en contactarme en mi perfil de Linkedin!, estoy lista para enfrentar nuevos desafíos y ser un valioso miembro en tu equipo de desarrollo. 😊

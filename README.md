@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Paulina, egresada de desarrollo web y vivo en Chile. Actualmente, estoy sumergida en el emocionante mundo del desarrollo Full Stack JavaScript.
+👋 ¡Hola! Soy Paulina, desarrolladora Web y vivo en Chile. Actualmente, estoy sumergida en el emocionante mundo del desarrollo Full Stack JavaScript.
 
 Anteriormente, mi trayectoria profesional estuvo en otra área, pero decidí dar un giro hacia la tecnología y aquí estoy, amando esto y emocionada por cada línea de código que escribo. Considero que este cambio me ha otorgado una perspectiva única y una habilidad innata para adaptarme a nuevos entornos y desafíos.
 

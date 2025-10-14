@@ -5,5 +5,5 @@ Después de una trayectoria en otro rubro, decidí reinventarme en el mundo de l
 Creo interfaces claras, accesibles y funcionales, y seguir perfeccionando mis habilidades a través de nuevos proyectos y desafíos.
 
 ✨ Siempre abierta a colaborar, aprender y crecer en equipo.
-📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/paulina-becker/) o explorar mis proyectos aquí en GitHub.
+📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/paulinabecker/) o explorar mis proyectos aquí en GitHub.
 

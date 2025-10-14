@@ -1,7 +1,9 @@
-👋 ¡Hola! Soy Paulina, Desarrolladora Web y vivo en Chile. Actualmente, estoy sumergida en el emocionante mundo del desarrollo Full Stack JavaScript.
+👋 ¡Hola! Soy Paulina Becker, desarrolladora web de Chile. Actualmente me especializo en desarrollo Web Frontend, con enfoque especial en diseño UX/UI.
 
-Anteriormente, mi trayectoria profesional estuvo en otra área, pero decidí dar un giro hacia la tecnología y aquí estoy, amando esto y emocionada por cada línea de código que escribo. Considero que este cambio me ha otorgado una perspectiva única y una habilidad innata para adaptarme a nuevos entornos y desafíos.
+Después de una trayectoria en otro rubro, decidí reinventarme en el mundo de la tecnología —una decisión que me permitió unir mi lado creativo con lo técnico. Esta experiencia me ha dado una gran capacidad de adaptación, aprendizaje constante y resolución de problemas.
 
-Estoy ansiosa por continuar practicando mis habilidades y conocimientos adquiridos, y por seguir aprendiendo y perfeccionándome en este apasionante campo. Me considero una aprendiz incansable y estoy dispuesta a trabajar arduamente para contribuir de manera significativa en cualquier proyecto que se presente.
+Creo interfaces claras, accesibles y funcionales, y seguir perfeccionando mis habilidades a través de nuevos proyectos y desafíos.
 
-¡No dudes en contactarme en mi perfil de Linkedin!, estoy lista para enfrentar nuevos desafíos y ser un valioso miembro en tu equipo de desarrollo. 😊
+✨ Siempre abierta a colaborar, aprender y crecer en equipo.
+📫 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/paulina-becker/) o explorar mis proyectos aquí en GitHub.
+
